@@ -3,7 +3,7 @@ import "bootstrap";
 import "./style.css";
 
 let articulo = ["la", "una", "su"];
-let adjetivo = ["gran", "mejor", "loca"];
+let adjetivo = ["gran", "mejor", "gran"];
 let sustantivo = ["solucion", "respuesta"];
 
 function generadorDominio(parte1, parte2, parte3) {
